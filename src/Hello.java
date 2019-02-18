@@ -10,7 +10,7 @@ public class Hello {
 
         int myTotal = myFirstNumber + mySecondNumber + myThirdNumber;
 
-        int myLastOne = 1050 - myTotal;
+        int myLastOne = 1000 - myTotal;
 
         System.out.println(myLastOne);
     }
